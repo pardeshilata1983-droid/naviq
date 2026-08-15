@@ -1,0 +1,6 @@
+{
+  "name": "Naviq — Customer Success Agent",
+  "description": "Navigate every customer conversation. Your AI Customer Success Navigator.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
